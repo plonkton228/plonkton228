@@ -13,7 +13,13 @@
 <div> 
 <h3>&nbsp &nbsp Навыки:</h3>
 <p align="left">
-  
+  <ol>
+    <li>Настраиваю проект с нуля - сборщик (webpack) ,  typescript , тесты , storybook, babel.</li>
+    <li>Делаю интернационализацию с помощью библиотеки i18next</li>
+    <li>Делаю unit-тесты ( jest, react-testing-library ), скриншотные тесты (Loki)</li>
+    <li>Умею в оптимизацию кода. ( Code-splitting(Redux), chuncks(webpack), lazy-loading для компонентов, memo(Отрисовка компонентов в React) )</li>
+    <li>Выкладывание проекта на удаленный сервер/хостинг</li>
+  </ol>
 </p>
 
 <h3>&nbsp &nbsp Технологии:</h3>
