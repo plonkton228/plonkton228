@@ -8,7 +8,7 @@
 
 * 🚀  Сейчас я работаю над: [Shop](http://https://github.com/plonkton228/Shop)
 * 🧠  Изучаю: GraphQl, Next.js
-
+--------
 ### Front-end:
 <div> 
 <h3>&nbsp &nbsp Навыки:</h3>
