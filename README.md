@@ -12,7 +12,7 @@
 ### Front-end:
 <div> 
 <h3>&nbsp &nbsp Навыки:</h3>
-<p align="left:>
+<p align="left">
   
 </p>
 
